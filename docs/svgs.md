@@ -68,6 +68,7 @@
 - [stackoverflow](https://simpleicons.org/?q=stackoverflow)
 - [steam](https://simpleicons.org/?q=Steam)
 - [strava](https://simpleicons.org/?q=strava)
+- [substack](https://simpleicons.org/?q=substack)
 - [telegram](https://simpleicons.org/?q=telegram)
 - [threema](https://simpleicons.org/?q=threema)
 - [tryhackme](https://simpleicons.org/?q=tryhackme)
